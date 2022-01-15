@@ -8,7 +8,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://192.168.2.20/test.ipa</string>
+<string>https://github.com/im5033/appleipainstall/releases/download/appUpload/Spotify.ipa</string>
 </dict>
 </array>
 <key>metadata</key>
